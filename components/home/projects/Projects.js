@@ -18,105 +18,80 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Flutter", "MUI", "Python", "FastAPI"],
+    title: "LineDevLTD",
+    imgSrc: "./project-imgs/linedev.png",
+    code: "https://github.com/linesquad/linedevltd",
+    projectLink: "https://www.linedevltd.com/",
+    tech: ["React", "Javascript", "Supabase", "Aceternity UI", "TailwindCSS"],
     description:
-      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+      "Worked on login component for admin panel, and developed entire admin panel.",
     modalContent: (
       <>
         <p>
-          Pain.app is a real-time coaching app for students learning to paint.
-          This app is my baby, designed and built on my own.
+          LineDevLTD is a website for a development company. I Worked on login
+          component for admin panel, and developed entire admin panel.
         </p>
         <p>
-          The tech stack is based on top of Flutter for the mobile app,
-          connected to a Python & FastAPI backend, with data stored in Postgres,
-          deployed on Heroku.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          We used best practices for our project, and we used Supabase for our
+          database. handled the api with tanstack query. using custom hooks for
+          best practices.
         </p>
       </>
     ),
   },
   {
-    title: "The Canvas Club",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Node", "Express", "Postgres", "Kafka", "Redis"],
+    title: "Lano Pet Shop",
+    imgSrc: "./project-imgs/lano.jfif",
+    code: "https://github.com/linesquad/lano",
+    projectLink: "lano.vercel.app",
+    tech: ["NextJs", "Typescript", "Tailwind", "NodeJs", "shadcn"],
     description:
-      "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
+      "A pet shop website where you can buy pets and pet accessories. I worked on both admin panel and client side.",
     modalContent: (
       <>
         <p>
-          The Canvas Club is a social community for painters to connect with
-          others in their community.
+          The Lano Pet Shop is a website for a pet shop. which gives you the
+          ability to buy pets, accessories and foods.
         </p>
         <p>
-          I work primarily on the backend, a collection of Node & Express
-          microservices. Data is stored primarily in Postgres & cached in Redis.
+          I work primarily on the frontend, handling API with tanstack query and
+          using custom hooks for best practices.
         </p>
         <p>
-          The team in total consists of 5 developers. This is a passion project
-          for all of us.
+          The team in total consists of 5 developers and ui/ux designers. This
+          is a passion project for all of us.
         </p>
         <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          Having a senior developer in the team, we were able to learn a lot
+          about best practices and how to handle a project structure.
         </p>
       </>
     ),
   },
   {
-    title: "BrushWire",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
+    title: "Personal Trainer",
+    imgSrc: "./project-imgs/gym.png",
+    code: "https://github.com/tornike2002/FullstackGymProject",
+    projectLink: "https://fullstack-gym-project.vercel.app/",
+    tech: [
+      "React",
+      "Javascript",
+      "Supabase",
+      "Tanstack",
+      "TailwindCSS",
+      "emailjs",
+    ],
     description:
-      "Think Zapier but for paint. Built with a team of four college friends and scaled to > 1 billion requests per day. This was a fun one.",
+      "The Group project was to create a personal trainer website. On this project i learnd how to handle API with tanstack query and how to use custom hooks.",
     modalContent: (
       <>
         <p>
-          Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 billion requests per day.
-          This was a fun one.
+          This project have admin panel too where you can add, delete and update
+          the trainers data, images and stuff.
         </p>
         <p>
-          Since &quot;Zapier for paint&quot; doesn&apos;t mean anything, be
-          creative {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          Main concept of this project was to learn how to handle API with
+          tanstack query and how to use custom hooks.
         </p>
       </>
     ),

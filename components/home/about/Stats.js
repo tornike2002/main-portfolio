@@ -12,20 +12,20 @@ export const Stats = () => {
             <span>Use at work</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">JavaScript</span>
-            <span className="chip">TypeScript</span>
-            <span className="chip">HTML</span>
-            <span className="chip">CSS</span>
             <span className="chip">React</span>
-            <span className="chip">Redux</span>
+            <span className="chip">Next.js</span>
+            <span className="chip">Tailwind</span>
             <span className="chip">NodeJS</span>
             <span className="chip">Express</span>
-            <span className="chip">Postgres</span>
             <span className="chip">MongoDB</span>
-            <span className="chip">GitHub</span>
-            <span className="chip">Jira</span>
-            <span className="chip">Heroku</span>
+            <span className="chip">Github</span>
+            <span className="chip">Trello</span>
             <span className="chip">AWS</span>
+            <span className="chip">Heroku</span>
+            <span className="chip">Supabase</span>
+            <span className="chip">Typescript</span>
+            <span className="chip">Javascript</span>
+            <span className="chip">Tanstack</span>
           </div>
         </div>
       </Reveal>
@@ -36,16 +36,8 @@ export const Stats = () => {
             <span>Use for fun</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">Rust</span>
-            <span className="chip">Tailwind</span>
-            <span className="chip">Java</span>
-            <span className="chip">Spring</span>
-            <span className="chip">Figma</span>
-            <span className="chip">Whimsical</span>
-            <span className="chip">Planetscale</span>
-            <span className="chip">GraphQL</span>
-            <span className="chip">Python</span>
-            <span className="chip">FastAPI</span>
+            <span className="chip">Supabase</span>
+            <span className="chip">Clerk</span>
           </div>
         </div>
       </Reveal>

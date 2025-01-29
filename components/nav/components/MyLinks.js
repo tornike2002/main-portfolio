@@ -16,7 +16,7 @@ export const MyLinks = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.0 }}
       >
-        <Link href="https://www.linkedin.com" target="_blank" rel="nofollow">
+        <Link href="https://www.linkedin.com/in/tornike-butiashvili-4b3633226/" target="_blank" rel="nofollow">
           <AiFillLinkedin size="2.4rem" />
         </Link>
       </motion.span>
@@ -26,12 +26,12 @@ export const MyLinks = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.1 }}
       >
-        <Link href="https://www.github.com" target="_blank" rel="nofollow">
+        <Link href="https://github.com/tornike2002" target="_blank" rel="nofollow">
           <AiFillGithub size="2.4rem" />
         </Link>
       </motion.span>
 
-      <motion.span
+      {/* <motion.span
         initial={{ y: -30, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.2 }}
@@ -49,7 +49,7 @@ export const MyLinks = () => {
         <Link href="https://www.codepen.io" target="_blank" rel="nofollow">
           <AiFillCodepenCircle size="2.4rem" />
         </Link>
-      </motion.span>
+      </motion.span> */}
     </div>
   );
 };

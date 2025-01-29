@@ -13,32 +13,29 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Bob, if you haven&apos;t already gathered that by
-              now. I&apos;m a painter turned software engineer from Daytona,
-              Florida. I specialize in the backend, primarily Node and Rust, but
-              love building with whatever tools are right for the job.
+              Hey! I&apos;m Tornike, If you haven&apos;t already gathered that
+              by now. I&apos;m a Developer turned Frontend Development from
+              Georgia, Rustavi. I specialize in the Frontend, primarily React
+              and Nextjs, but love building with whatever tools are right for
+              the job.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Google on Google Photos. I also toss in my ¢2
-              with the design systems teams from time to time (once an artist,
-              always an artist, amirite?).
+              I currently work for LineDevLTD on Middle Frontend Developer
+              Position. This company is based in Tbilisi, Georgia. I have worked
+              on one company website and three additional projects: Jujuna, Lano
+              Pet Shop, and the Georgian Esports Festival. These projects were
+              officially ordered by the respective companies. Based on the work
+              I've done, I've gained experience to use Best Practices and to
+              work with the latest technologies.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I still love to paint. Any given Sunday
-              you&apos;ll find me scribbling some happy clouds with my son ☁️ I
-              even teach courses online if you&apos;re looking to learn!
-            </p>
-          </Reveal>
-          <Reveal>
-            <p className={styles.aboutText}>
-              I&apos;m passively looking for new positions where I can merge my
-              love for code with my love for the canvas. If you think
-              you&apos;ve got an opening that I might like, let&apos;s connect
-              🔗
+              Outside of work, I still love to Code. Any given Sunday you'll
+              find me working on a new project, learning new tools and Mentoring
+              our Junior Developers.
             </p>
           </Reveal>
           <Reveal>
