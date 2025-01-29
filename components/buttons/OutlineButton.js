@@ -1,9 +1,9 @@
 import styles from "./outlinebutton.module.scss";
 
-export const OutlineButton = ({ children, onClick }) => {
+export const OutlineButton = ({ children, file }) => {
   return (
-    <button onClick={onClick} className={styles.outlineButton}>
+    <a href={file} download={file} className={styles.outlineButton}>
       {children}
-    </button>
+    </a>
   );
 };
