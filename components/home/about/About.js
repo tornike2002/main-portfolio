@@ -16,26 +16,26 @@ export const About = () => {
               Hey! I&apos;m Tornike, If you haven&apos;t already gathered that
               by now. I&apos;m a Developer turned Frontend Development from
               Georgia, Rustavi. I specialize in the Frontend, primarily React
-              and Nextjs, but love building with whatever tools are right for
+              and Next.js, but love building with whatever tools are right for
               the job.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for LineDevLTD on Middle Frontend Developer
-              Position. This company is based in Tbilisi, Georgia. I have worked
+              I currently work for LineDevLTD on a Middle Frontend Developer
+              position. This company is based in Tbilisi, Georgia. I have worked
               on one company website and three additional projects: Jujuna, Lano
               Pet Shop, and the Georgian Esports Festival. These projects were
               officially ordered by the respective companies. Based on the work
-              I've done, I've gained experience to use Best Practices and to
-              work with the latest technologies.
+              I&apos;ve done, I&apos;ve gained experience to use Best Practices
+              and to work with the latest technologies.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I still love to Code. Any given Sunday you'll
-              find me working on a new project, learning new tools and Mentoring
-              our Junior Developers.
+              Outside of work, I still love to code. Any given Sunday
+              you&apos;ll find me working on a new project, learning new tools,
+              and mentoring our junior developers.
             </p>
           </Reveal>
           <Reveal>

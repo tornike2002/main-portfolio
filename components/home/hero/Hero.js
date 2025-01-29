@@ -19,10 +19,10 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I've spent the last three years working tirelessly to build and
+            I&apos;ve spent the last three years working tirelessly to build and
             scale websites for amazing companies, always using best practices to
             ensure top-quality results. My dedication to web development drives
-            me to create impactful digital experiences. Let's connect! 🚀
+            me to create impactful digital experiences. Let&apos;s connect! 🚀
           </p>
         </Reveal>
         <Reveal>
