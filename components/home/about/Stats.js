@@ -13,18 +13,22 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">React</span>
+            <span className="chip">TypeScript</span>
             <span className="chip">Next.js</span>
-            <span className="chip">Tailwind</span>
-            <span className="chip">NodeJS</span>
+            <span className="chip">Node.js</span>
             <span className="chip">Express</span>
             <span className="chip">MongoDB</span>
+            <span className="chip">Mongoose</span>
+            <span className="chip">DrizzleORM</span>
+            <span className="chip">Neon</span>
+            <span className="chip">Prisma</span>
+            <span className="chip">Jest</span>
+            <span className="chip">Supertest</span>
+            <span className="chip">Tailwind</span>
+            <span className="chip">Javascript</span>
             <span className="chip">Github</span>
             <span className="chip">Trello</span>
-            <span className="chip">AWS</span>
             <span className="chip">Heroku</span>
-            <span className="chip">Supabase</span>
-            <span className="chip">Typescript</span>
-            <span className="chip">Javascript</span>
             <span className="chip">Tanstack</span>
           </div>
         </div>

@@ -14,21 +14,22 @@ export const About = () => {
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
               Hey! I&apos;m Tornike, If you haven&apos;t already gathered that
-              by now. I&apos;m a Developer turned Frontend Development from
-              Georgia, Rustavi. I specialize in the Frontend, primarily React
-              and Next.js, but love building with whatever tools are right for
-              the job.
+              by now. I&apos;m a Full Stack Engineer from Georgia, Rustavi. I 
+              specialize in modern web development, building end-to-end solutions 
+              with React, TypeScript, and Next.js on the frontend, and Node.js 
+              with Express on the backend.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for LineDevLTD on a Middle Frontend Developer
-              position. This company is based in Tbilisi, Georgia. I have worked
-              on one company website and three additional projects: Jujuna, Lano
-              Pet Shop, and the Georgian Esports Festival. These projects were
-              officially ordered by the respective companies. Based on the work
-              I&apos;ve done, I&apos;ve gained experience to use Best Practices
-              and to work with the latest technologies.
+              I currently work for LineDevLTD as a Full Stack Developer in 
+              Tbilisi, Georgia. My tech stack includes React, TypeScript, Next.js, 
+              Node.js, Express, and various database solutions like MongoDB with 
+              Mongoose, PostgreSQL with DrizzleORM and Prisma, and Supabase. I 
+              ensure code quality through comprehensive testing with Jest and 
+              Supertest. I&apos;ve delivered multiple production applications 
+              including company websites and client projects like Jujuna, Lano 
+              Pet Shop, and TechGazzeta.
             </p>
           </Reveal>
           <Reveal>
