@@ -76,7 +76,7 @@ authentication, pagination, testing, integration tests also comments and nested 
     modalContent: (
       <>
         <p>
-          Developed and maintained "TechGazeta", a full-stack technology blog
+          Developed and maintained &quot;TechGazeta&quot;, a full-stack technology blog
           platform featuring a custom admin panel, user profile management, and
           a dynamic post system.
         </p>
