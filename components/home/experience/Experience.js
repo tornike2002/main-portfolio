@@ -14,19 +14,43 @@ export const Experience = () => {
 
 const experience = [
   {
+    title: "Tech Gazzeta Georgia - Remote",
+    position: "Full Stack Engineer",
+    time: "Mar 2025 - May 2025",
+    location: "Tbilisi, Georgia",
+    description:
+      "Part-time Full Stack Engineer role at Tech Gazzeta Georgia, working on modern web development projects and delivering high-quality solutions.",
+    tech: [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "Tailwind",
+      "Tanstack",
+    ],
+  },
+  {
     title: "LineDevLTD - Remote",
-    position: "Middle Frontend Developer",
+    position: "Full Stack Engineer",
     time: "Aug 2024 - Present",
     location: "Tbilisi, Georgia",
     description:
-      "I have worked on one company website and three additional projects: Jujuna, Lano Pet Shop, and the Georgian Esports Festival. These projects were officially ordered by the respective companies",
+      "I have successfully delivered 7 real-time projects including company websites and client applications: Jujuna, Lano Pet Shop, TechGazzeta, and the Georgian Esports Festival. These projects were officially commissioned by their respective companies and are currently in production.",
     tech: [
       "React",
+      "TypeScript",
       "Next.js",
-      "Typescript",
-      "Javascript",
-      "Nodejs",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "DrizzleORM",
+      "Neon",
+      "Prisma",
       "Supabase",
+      "Jest",
+      "Supertest",
+      "JavaScript",
       "Tanstack",
       "Tailwind",
     ],
